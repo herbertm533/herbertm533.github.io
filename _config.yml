@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 
-url: "https://melyanna.github.io"
+url: "https://herbertm533.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -48,7 +48,7 @@ title-img: "/img/avatar/favicon.png"
 
 navbar-col: "#191970"
 navbar-text-col: "#FFFFFF"
-navbar-children-col: "#FFFFFF"
+navbar-children-col: "#191970"
 page-col: "#708090"
 link-col: "#FFFFFF"
 hover-col: "#FFFFFF"
