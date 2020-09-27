@@ -236,6 +236,9 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 .gs-section-01 p {
      font-size: 30px;
+
+.gs-section-01 p {
+     font-family: Wingdings;
 }
 
 </style>
@@ -245,7 +248,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 .gs-section-02 h3 { 
      color: orange }
 
-.gs-section-01 p {
+.gs-section-02 p {
      font-size: 20px;
 }
 
@@ -256,7 +259,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 .gs-section-03 h3 { 
      color: yellow }
 
-.gs-section-01 p {
+.gs-section-03 p {
      font-size: 10px;
 }
 
