@@ -28,6 +28,7 @@ navbar-links:
   About: "about"
   Tags: "https://melyanna.github.io/tags/"
   # Website: "https://melyanna.net/"
+  Resources: "getstarted"
   Subscribe: "subscribe"
   Search: "search"
 
