@@ -26,10 +26,11 @@ description: A shrine to myself.
 navbar-links:
   Blog: ""
   About: "about"
-  Tags: "https://melyanna.github.io/tags/"
-  # Website: "https://melyanna.net/"
-  Resources: "getstarted"
-  Table-Demo: "table-demo"
+  Resources: 
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Getting Started: "getstarted"
+    - Table-Demo: "table-demo"
   Subscribe: "subscribe"
   Search: "search"
 
