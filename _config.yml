@@ -15,10 +15,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Tea time
+title: Herb Mueller's Website
 
 # Short description of your site
-description: Blog, scrapbook, and virtual space for my experiments.
+description: A shrine to myself.
 
 # --- Navigation bar options --- #
 
@@ -43,15 +43,15 @@ title-img: "/img/avatar/favicon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#ffec9f"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
-link-col: "#A44B8A"
-hover-col: "#724565"
-footer-col: "#ffec9f"
-footer-text-col: "#777777"
-footer-link-col: "#A44B8A"
+navbar-col: "#191970"
+navbar-text-col: "#FFFFFF"
+navbar-children-col: "#FFFFFF"
+page-col: "#708090"
+link-col: "#FFFFFF"
+hover-col: "#FFFFFF"
+footer-col: "#708090"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#FFFFFF"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
