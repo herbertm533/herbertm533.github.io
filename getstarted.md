@@ -238,7 +238,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      font-size: 30px;
 
 .gs-section-01 p {
-     font-family: Wingdings;
+     font-family: cursive;
 }
 
 </style>
